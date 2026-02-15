@@ -1,0 +1,18 @@
+node_modules
+
+# Build outputs
+dist
+build
+
+# Expo
+.expo
+.expo-shared
+expo_output.txt
+
+# Env files (keep examples)
+.env
+.env.*
+!.env.example
+
+# Logs
+*.log

@@ -1,0 +1,21 @@
+{
+  "expo": {
+    "name": "AVAS AI",
+    "slug": "avas-ai",
+    "version": "0.1.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#f6f4ef"
+    },
+    "assetBundlePatterns": ["**/*"],
+    "extra": {
+      "apiBaseUrl": "http://localhost:3001",
+      "supabaseUrl": "https://emmpixxtzuycjhywuigt.supabase.co",
+      "supabaseAnonKey": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImVtbXBpeHh0enV5Y2poeXd1aWd0Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3NzEwNzIxODAsImV4cCI6MjA4NjY0ODE4MH0.M9imYFm0SnvGwFwOh8YE9FK0KLqhwRQe4QIovXrzXsE"
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "name": "@avas/mobile",
+  "private": true,
+  "version": "0.1.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo run:android",
+    "ios": "expo run:ios",
+    "web": "expo start --web"
+  },
+  "dependencies": {
+    "@expo/metro-runtime": "~3.1.3",
+    "@react-native-voice/voice": "^3.2.4",
+    "@supabase/supabase-js": "^2.45.1",
+    "expo": "~50.0.0",
+    "expo-constants": "~15.4.0",
+    "expo-speech": "~11.7.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-native": "^0.73.6",
+    "react-native-web": "^0.21.0"
+  },
+  "devDependencies": {
+    "@types/react": "^18.3.28",
+    "typescript": "^5.4.5"
+  }
+}
